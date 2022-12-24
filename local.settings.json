@@ -1,7 +1,8 @@
 {
   "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ==",
+    "MyCosmosDbConnection": "mongodb://cosmos-mongo-neighborly-app:2bnMPAUuQTlIBhM9FH0h8SiGb4gysHJ1CaZU5hAaNuT1EJctuWv72CfTkB8C7pKMHOSIk9FZ3ZKiACDbQqC46g==@cosmos-mongo-neighborly-app.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmos-mongo-neighborly-app@"
   },
   "ConnectionStrings": {},
 
